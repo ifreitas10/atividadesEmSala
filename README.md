@@ -76,6 +76,7 @@ import java.util.Scanner;
             }
         }*/
 
+        //Faça a fatoração do numero;        
         /**public class aulaAtividades{
             public static void main(String[] args){
                int fatorial = 1;
@@ -100,6 +101,7 @@ import java.util.Scanner;
                }
             }
         }*/
+        
         //Escreva um algoritmo que calcule o valor de S, segundo a fórmula  S= 1/1...-10/100
         /**public class aulaAtividades{
             public static void main(String[] args){
@@ -130,6 +132,7 @@ import java.util.Scanner;
                     System.out.println("Resultado: "+resultado);
             }
         }*/
+        
         //Leia nomes e idades de uma quantidade indeterminada de pessoas;
         /*public class aulaAtividades{
             public static void main(String[] args){
@@ -145,6 +148,7 @@ import java.util.Scanner;
               }
             }
         }*/
+        
         //Escreva um algoritmo que imprima todos os resultados possíveis da combinação de dois dados de 6 lados;
         public class aulaAtividades{
             public static void main(String[] args){
